@@ -11,9 +11,9 @@ public class TestHelloThread {
 		h2.start();
 		h3.start();
 		for(int i=1; i<=10; i++) {
-			System.out.println(i+"="+"JAI RAM JIKI");
+			System.out.println(i+"="+"Hello Thread");
 		}
 		
-	}
+	} 
 
 }
